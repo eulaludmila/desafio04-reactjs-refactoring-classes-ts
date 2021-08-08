@@ -9,14 +9,6 @@
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png"
     },
     {
-      "id": 2,
-      "name": "Veggie",
-      "description": "Macarrão com pimentão, ervilha e ervas finas colhidas no himalaia.",
-      "price": "21.90",
-      "available": true,
-      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png"
-    },
-    {
       "id": 3,
       "name": "A la Camarón",
       "description": "Macarrão com vegetais de primeira linha e camarão dos 7 mares.",
@@ -25,20 +17,12 @@
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
     },
     {
-      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png",
-      "name": "Sopa",
-      "price": "18.90",
-      "description": "Sopa caseira, gostinho de casa",
+      "image": "https://www.alegrafoods.com.br/wp-content/uploads/2020/07/9-img-blog.png",
+      "name": "Pizza de Calabresa",
+      "price": "25.99",
+      "description": "Cebola, calabresa e orégano",
       "available": true,
       "id": 4
-    },
-    {
-      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png",
-      "name": "Sopa de Ervilha",
-      "price": "20.99",
-      "description": "Ervilhas",
-      "available": false,
-      "id": 5
     }
   ]
 }
