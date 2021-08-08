@@ -20,7 +20,7 @@
       "id": 3,
       "name": "A la Camarón",
       "description": "Macarrão com vegetais de primeira linha e camarão dos 7 mares.",
-      "price": "25.90",
+      "price": "25.80",
       "available": false,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
     },
@@ -31,6 +31,14 @@
       "description": "Sopa caseira, gostinho de casa",
       "available": true,
       "id": 4
+    },
+    {
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png",
+      "name": "Sopa de Ervilha",
+      "price": "20.99",
+      "description": "Ervilhas",
+      "available": false,
+      "id": 5
     }
   ]
 }
